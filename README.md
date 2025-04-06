@@ -1,2 +1,2 @@
-# Meu-Curr-culo-HTML
+# Meu-Curriculo-HTML
 Currículo com máximo de HTML e mínimo de CSS 
