@@ -1,2 +1,2 @@
-# Meu-Curriculo-HTML-e-CSS
+# Meu-Curriculo-HTML-CSS
 Currículo com máximo de HTML e mínimo de CSS, Algumas informações que estão no currículo não são verdadeiras.
